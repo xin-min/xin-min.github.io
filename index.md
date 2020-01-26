@@ -1,2 +1,2 @@
 hello! xin-min here. 
-![that's me!](https://xin-min.github.com/images/dp.JPEG)
+![that's me!](https://xin-min.github.io/images/dp.JPEG)
