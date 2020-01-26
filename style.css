@@ -102,6 +102,7 @@ a:hover {
 #logo p {
 	margin-top: -20px; 
 	padding: 20px 0px 0px 5px;
+
 	font-family: 'Oswald', sans-serif;
 	font-size: 20px;
 	font-weight: 300;
@@ -123,7 +124,7 @@ a:hover {
 
 #splash {
 	overflow: hidden;
-	padding: 0px 0px 0px 0px;
+	padding: 0px 0px 50px 0px;
 	border-bottom: 1px dashed #E7E2DC;
 	letter-spacing: -3px;
 	text-align: center;
@@ -146,7 +147,7 @@ a:hover {
 #search form {
 	height: 41px;
 	margin: 0;
-	padding: 10px 0 0 20px;
+	padding: 10px 0px 0px 20px;
 }
 
 #search fieldset {
