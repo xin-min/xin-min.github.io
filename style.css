@@ -6,7 +6,7 @@ Released for free under the Creative Commons Attribution License
 */
 
 body {
-	margin: 0;
+	margin:0;
 	padding: 0;
 	background: #bbedc3;
 	font-family: 'Open Sans', sans-serif;
@@ -34,6 +34,7 @@ h4 {
 	text-align: left;
 }
 
+
 h2 {
 	font-size: 2.8em;
 	padding: 0;
@@ -41,9 +42,13 @@ h2 {
 }
 
 h3 {
-	font-size: 1.6em;
-	padding: 0;
-	color: #7D7764;
+	font-size: 2em;
+	padding: 0.5em;
+	color: #FFFFFF;
+	text-align: center;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 0.02em;
 }
 
 p, ul, ol {
@@ -56,7 +61,7 @@ ul, ol {
 
 a {
 	text-decoration: none;
-	color: #5BA689; /* weird green */
+	color: #FFFFFF; /* weird green */
 }
 
 a:hover {
@@ -75,6 +80,13 @@ a:hover {
 .container {
 	width: 1200px;
 	margin: 0px auto;
+}
+
+.pic-border {
+	height: 25vh;
+	width: 30vw;
+	margin: 0px auto;
+	background: #000000;
 }
 
 /* Header */
@@ -490,12 +502,67 @@ a:hover {
 	background-position: center; 
 } /* green */
 
+.activities{
+	overflow: hidden;
+	height:35vh;
+	width: 30vw;
+	background-image: url("images/REClub1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center; 
+	margin-left: 60vw;
+	margin-top: 5vh;
+	border-style: solid;
+	border-color: #FFFFFF;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+}
+
+.projects{
+	overflow: hidden;
+	height:35vh;
+	width: 30vw;
+	background-image: url(".jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center; 
+	margin-left: 10vw;
+	margin-top:5vh;
+	border-style: solid;
+	border-color: #FFFFFF;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	position: relative;
+	color: #000000;
+}
+.work{
+	overflow: hidden;
+	height:35vh;
+	width: 30vw;
+	background-image: url(".jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center; 
+	margin-left: 35vw;
+	margin-top:5vh;
+	border-style: solid;
+	border-color: #FFFFFF;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	position: relative;
+	color: #000000;
+}
+
 /* Banner */
 
 #banner-wrapper {
 	overflow: hidden;
 	padding: 0px 0px;
-	background: #bbedc3; /* green */
+	background: #EAC9C7; /* pink */
 	height: 87vh;
 }
 
