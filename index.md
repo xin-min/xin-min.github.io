@@ -1,2 +1,2 @@
 hello! xin-min here. 
-![dp.JPEG](C:\Users\User\Desktop\)
+![that's me!](https://xin-min.github.com/images/dp.JPEG)
