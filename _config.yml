@@ -1,2 +1,7 @@
 theme: jekyll-theme-cayman
-navbar-img: "/images/dp.JPEG"
+header:
+  height: 0.75in
+  image-vertical-align: 2 # # (1)
+  recto:
+    center:
+      content: image:/images/dp.JPEG [width=80]
