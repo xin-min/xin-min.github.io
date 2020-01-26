@@ -45,7 +45,7 @@ ul, ol {
 
 a {
 	text-decoration: none;
-	color: #5BA689;
+	color: #5BA689; /* weird green */
 }
 
 a:hover {
@@ -105,7 +105,7 @@ a:hover {
 	font-family: 'Oswald', sans-serif;
 	font-size: 20px;
 	font-weight: 300;
-	color: #696969;
+	color: #696969; /* grey */
 }
 
 #logo p a {
@@ -116,7 +116,7 @@ a:hover {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #40745E;
+	color: #40745E; /* dark green*/
 }
 
 /* Splash */
@@ -460,7 +460,7 @@ a:hover {
 
 .list-style2 a:hover {
 	text-decoration: underline;
-	color: #909090;
+	color: #909090; /* grey */
 }
 
 .list-style2 .first {
@@ -474,7 +474,7 @@ a:hover {
 #banner-wrapper {
 	overflow: hidden;
 	padding: 30px 0px;
-	background: #bbedc3;
+	background: #bbedc3; /* green */
 }
 
 #banner {
@@ -506,14 +506,14 @@ a:hover {
 }
 
 .box-style {
-	background: #191919;
+	background: #191919; /* black */
 }
 
 .box-style h2 {
 	padding: 10px 0px;
 	letter-spacing: -1px;
 	font-size: 28px;
-	color: #FFFFFF;
+	color: #FFFFFF; /* white */
 }
 
 .box-style .image {
