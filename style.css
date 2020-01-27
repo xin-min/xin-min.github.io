@@ -21,6 +21,17 @@ h1, h2, h3 {
 	font-weight: 300;
 }
 
+.profile{
+	color: #5BA689;
+}
+.about{
+	color: #C65CFF;
+}
+
+a.about:hover{
+	color:blue;
+}
+
 h1 {
 	font-size: 5vw;
 	padding: 10vh 0vw 0vh 60vw;
@@ -69,6 +80,7 @@ a {
 }
 
 a:hover {
+	color:#FFE6E5;
 }
 
 .alignleft {
@@ -534,7 +546,7 @@ a:hover {
 	overflow: hidden;
 	height:35vh;
 	width: 30vw;
-	background-image: url(".jpg");
+	background-image: url("images/shell.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center; 
@@ -552,7 +564,7 @@ a:hover {
 	overflow: hidden;
 	height:35vh;
 	width: 30vw;
-	background-image: url(".jpg");
+	background-image: url("images/DSO1.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center; 
