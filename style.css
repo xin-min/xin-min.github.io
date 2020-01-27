@@ -273,6 +273,11 @@ a:hover {
 	padding: 40px 20px 20px 20px;
 	background-color:#EFE9F2;
 }
+#work{
+	overflow: hidden;
+	padding: 40px 20px 20px 20px;
+	background-color:#D6EEFD;
+}
 
 /* Content */
 
@@ -524,7 +529,7 @@ a:hover {
 	background-position: center; 
 } /* green */
 
-.activities{
+.activities-pic{
 	overflow: hidden;
 	height:35vh;
 	width: 30vw;
@@ -542,7 +547,7 @@ a:hover {
 	position: absolute;
 }
 
-.projects{
+.projects-pic{
 	overflow: hidden;
 	height:35vh;
 	width: 30vw;
@@ -560,7 +565,7 @@ a:hover {
 	position: relative;
 	color: #000000;
 }
-.work{
+.work-pic{
 	overflow: hidden;
 	height:35vh;
 	width: 30vw;
