@@ -27,6 +27,13 @@ h1, h2, h3 {
 .about{
 	color: #C65CFF;
 }
+.projects{
+	color: #5BA689;
+}
+
+a.projects:hover{
+	color:blue;
+}
 
 a.about:hover{
 	color:blue;
@@ -273,10 +280,23 @@ a:hover {
 	padding: 40px 20px 20px 20px;
 	background-color:#EFE9F2;
 }
+
 #work{
 	overflow: hidden;
 	padding: 40px 20px 20px 20px;
 	background-color:#D6EEFD;
+}
+
+#projects{
+	overflow: hidden;
+	padding: 40px 20px 20px 20px;
+	background-color:#E1FFE6;
+}
+
+#activities{
+	overflow: hidden;
+	padding: 40px 20px 20px 20px;
+	background-color:#FBFFDC;
 }
 
 /* Content */
@@ -430,12 +450,13 @@ a:hover {
 #column1 {
 	float: left;
 	width: 576px;
-	margin-right: 20px;
+	padding:2.5vh 50vw 2.5vh 10vw;
 }
 
 #column2 {
 	float: left;
 	width: 576px;
+	padding:2.5vh 10vw 2.5vh 0vw;
 }
 
 #column3 {
