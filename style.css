@@ -22,14 +22,14 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 4em;
+	font-size: 5vw;
 	padding: 10vh 0vw 0vh 60vw;
 	text-align: left;
 	color: #5BA689
 }
 
 h4 {
-	font-size: 1em;
+	font-size: 1.2vw;
 	padding: 0vh 0vw 0vh 60vw;
 	text-align: left;
 }
@@ -252,12 +252,18 @@ a:hover {
 	padding: 40px 20px 20px 20px;
 }
 
+#about{
+	overflow: hidden;
+	padding: 40px 20px 20px 20px;
+	background-color:#EFE9F2;
+}
+
 /* Content */
 
 #content {
 	float: left;
 	/*width: 752px;
-*/	padding: 0px 0px 0px 0px;
+*/	padding: 2.5vh 10vw 2.5vh 10vw;
 }
 
 .post {
@@ -435,7 +441,7 @@ a:hover {
 
 #footer a {
 	text-decoration: underline;
-	color: #D0FFD7;
+	color: #CAD7E7;
 }
 
 #footer a:hover {
@@ -562,7 +568,7 @@ a:hover {
 #banner-wrapper {
 	overflow: hidden;
 	padding: 0px 0px;
-	background: #EAC9C7; /* pink */
+	background: #FFE6E5; /* pink */
 	height: 87vh;
 }
 
