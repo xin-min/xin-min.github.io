@@ -77,6 +77,18 @@ h4 {
 	text-align: left;
 }
 
+h5{
+	font-size: 1.2vw;
+	text-align: center;
+	color: black;
+}
+
+
+#degree{
+	margin:52vh 0vw 0vh 0vw;
+	padding:0vh 0vw 0vh 70vw;;
+}
+
 #subtitle {
 	margin: -1vh;
 	padding: 0vh 0vw 0vh 60.8vw;
